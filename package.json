@@ -1,0 +1,15 @@
+{
+  "name": "bulls-and-cows-console",
+  "version": "1.0.0",
+  "description": "Console game bulls and cows",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ilrosch",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
